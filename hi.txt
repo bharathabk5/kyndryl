@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-location salem
-=======
-location chennai
->>>>>>> c853da1dcea3542993db10efe3ff530cae991356
